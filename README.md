@@ -1,10 +1,9 @@
 <h1 align="center">Hello World 👋, I'm Theerapat Yeetho</h1>
 <h3 align="center">Full Stack Developer!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theerapatyh&label=Profile%20views&color=0e75b6&style=flat" alt="theerapatyh" /> </p>
-
-
-<p align="center">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=theerapatyh&label=Profile%20views&color=0e75b6&style=flat" alt="theerapatyh" />
 <a href="https://www.linkedin.com/in/theeerapat-yeetho-0890872ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theerapat yeetho" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Theerapat8433/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theerapat yeetho" height="30" width="40" /></a>
 <a href="https://instagram.com/t.theerapatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t.theerapat" height="30" width="40" /></a>
