@@ -6,8 +6,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/theeerapat-yeetho-0890872ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theerapat yeetho" height="30" width="40" /></a>
-<a href="https://fb.com/theerapat yeetho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theerapat yeetho" height="30" width="40" /></a>
-<a href="https://instagram.com/t.theerapat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t.theerapat" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Theerapat8433/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theerapat yeetho" height="30" width="40" /></a>
+<a href="https://instagram.com/t.theerapatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t.theerapat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
